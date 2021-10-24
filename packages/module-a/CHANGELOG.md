@@ -1,3 +1,10 @@
+# auto-release-test-module-a-v1.0.0 (2021-10-24)
+
+
+### Bug Fixes
+
+* test ([960b559](https://github.com/lijinke666/auto-release-test-2/commit/960b559ac84596c807d110c6d8a96531753088f5))
+
 # [auto-release-module-a-v1.2.5](https://github.com/lijinke666/auto-release-test/compare/auto-release-module-a-v1.2.4...auto-release-module-a-v1.2.5) (2021-10-17)
 
 
